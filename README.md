@@ -1,10 +1,21 @@
+# 👋 Hi, I’m @GhostCircuit-X0
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GhostCircuit-X0&show_icons=true&hide_border=false&line_height=24&title_color=336791&icon_color=1b9cc9)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhostCircuit-X0&layout=compact&hide_border=false&title_color=336791)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GhostCircuit-X0&theme=default&hide_border=false)
 
-## 👋 Hi, I’m @GhostCircuit-X0
+### 🏆 GitHub Trophies  
+![trophy](https://github-profile-trophy.vercel.app/?username=GhostCircuit-X0&theme=flat&no-frame=true&margin-w=5)
+
+### 📊 GitHub Activity Graph  
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=GhostCircuit-X0&bg_color=ffffff&color=336791&line=1b9cc9&point=1b9cc9&hide_border=false)
+
+### 💻 Dev Metrics  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GhostCircuit-X0&theme=github)
+
+## 👀 About Me
 
 - 👀 I’m interested in **Cybersecurity, Web Development, and Open Source**
 - 🌱 I’m currently learning **Next.js, Supabase, and Security Automation**
