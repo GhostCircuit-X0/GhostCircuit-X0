@@ -9,11 +9,20 @@
 ### 🏆 GitHub Trophies  
 ![trophy](https://github-profile-trophy.vercel.app/?username=GhostCircuit-X0&theme=flat&no-frame=true&margin-w=5)
 
-### 📊 GitHub Activity Graph  
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=GhostCircuit-X0&bg_color=ffffff&color=336791&line=1b9cc9&point=1b9cc9&hide_border=false)
+### 📊 GitHub Contributions  
+![Metrics](https://metrics.lecoq.io/GhostCircuit-X0?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FCalcutta)
 
 ### 💻 Dev Metrics  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GhostCircuit-X0&theme=github)
+
+### 👁️ Visitor Counter  
+![Visitor Count](https://komarev.com/ghpvc/?username=GhostCircuit-X0&color=1b9cc9)
+
+### 🎨 Custom Badges  
+![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-blue?style=for-the-badge&logo=HackTheBox&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Open Source Lover](https://img.shields.io/badge/-Open%20Source-3b5998?style=for-the-badge&logo=github)
 
 ## 👀 About Me
 
